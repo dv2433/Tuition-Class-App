@@ -1,4 +1,4 @@
-# bhimani_classes
+# Smart_classes
 
 A new Flutter project.
 
